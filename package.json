@@ -18,7 +18,7 @@
     "react-native-dotenv": "^3.4.11",
     "react-native-maps": "^1.26.19",
     "expo-location": "~18.1.6",
-    "expo-notifications": "~0.32.13"
+    "expo-notifications": "~0.32.14"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
